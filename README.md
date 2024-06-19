@@ -28,6 +28,11 @@ This project is a fully responsive clone of the Netflix website, designed to pro
 ![MORE IMAGES](https://github.com/Priyanshu0714/NETFLIX-CLONE/blob/main/img2.png)
 ![](https://github.com/Priyanshu0714/NETFLIX-CLONE/blob/main/img3.png)
 ![](https://github.com/Priyanshu0714/NETFLIX-CLONE/blob/main/img4.png)
+![](https://github.com/Priyanshu0714/NETFLIX-CLONE/blob/main/img4.png)
+![](https://github.com/Priyanshu0714/NETFLIX-CLONE/blob/main/img5.png)
+![](https://github.com/Priyanshu0714/NETFLIX-CLONE/blob/main/img6.png)
+![](https://github.com/Priyanshu0714/NETFLIX-CLONE/blob/main/img7.png)
+![](https://github.com/Priyanshu0714/NETFLIX-CLONE/blob/main/img8.png)
 
 
 ## Installation
